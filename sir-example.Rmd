@@ -66,3 +66,5 @@ ggplot(data = approx_long, aes(x = time, y = proportion)) +
 ```
 
 ## End
+
+# adding note
